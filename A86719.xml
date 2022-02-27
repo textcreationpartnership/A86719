@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address of the agitators of the army to His Excellency Sir Thomas Fairfax. Presented the 14. of August, on behalf of the kingdom and army. Shewing the unexpectedness of the intrusion of those gentlemen into Parliament, who so lately usurped a parliamentary power when the free Parliament was forc'd a way: as also the injustice of their sitting therein. Unto which is annexed their proposals to His Excellency at Hammersmith, on the 5. of this instant August; for the prevention of the said gentlemen, and all other illegal members, sitting in the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86719</idno>
+            <idno type="STC">Wing H3377</idno>
+            <idno type="STC">Thomason E402_8</idno>
+            <idno type="STC">ESTC R201818</idno>
+            <idno type="EEBO-CITATION">99862310</idno>
+            <idno type="PROQUEST">99862310</idno>
+            <idno type="VID">160438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160438)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address of the agitators of the army to His Excellency Sir Thomas Fairfax. Presented the 14. of August, on behalf of the kingdom and army. Shewing the unexpectedness of the intrusion of those gentlemen into Parliament, who so lately usurped a parliamentary power when the free Parliament was forc'd a way: as also the injustice of their sitting therein. Unto which is annexed their proposals to His Excellency at Hammersmith, on the 5. of this instant August; for the prevention of the said gentlemen, and all other illegal members, sitting in the Parliament.</title>
+                  <author>Hincksman, Daniel.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Harris printer to His Excellency Sir Tho Fairfax,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Signed at end by Daniel Hincksman and 52 others.</note>
+                  <note>Annotation on Thomason copy: "Aug: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:160438:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>THE <hi>H<g ref="char:V">Ʋ</g>MBLE ADDRESS.</hi> of the AGITATORS of the ARMY To His Excellency Sir <hi>Thomas Fairfax.</hi> Preſented the 14. of AUGUST. On behalf of the Kingdom and the Army, &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He continued deſtructive de<g ref="char:EOLhyphen"/>ſigns and dangerous Combi<g ref="char:EOLhyphen"/>nations of perfidious men, formerly Members of Parlia<g ref="char:EOLhyphen"/>ment, which conſtantly blaſt the faireſt hopes and expecta<g ref="char:EOLhyphen"/>tions of Peace and Freedom, rendring all our endeavours and hazards of our lives fruitleſs,
+<pb n="4" facs="tcp:160438:2"/>
+               <!-- PDF PAGE 6 -->and at preſent threatning the ruine and deſo<g ref="char:EOLhyphen"/>lation of this poor diſtracted Kingdome, con<g ref="char:EOLhyphen"/>ſtrains us once more to addreſs our ſelves to Your Excellency, to improve the preſent opportunity that Providence hath put into your hands, of making them incapable of proſecu<g ref="char:EOLhyphen"/>ting their miſchievous purpoſes; being fully confident that though their former treacheries were more obſcure and intricate; yet their late unparalleld proceedings in violating the free legal Parliament, and USURPING A PAR<g ref="char:EOLhyphen"/>LIAMENTARY POVVER, on purpoſe to have embroiled this miſerable (and almoſt, ſtill, bleeding) Nation, again in blood, cries aloud to Juſtice to remove them from their USURPED, DESTRUCTIVE POVVER.</p>
+            <p>Seeing therefore thoſe Honorable Members of Parliament that diſcharged their truſt, have been forced to fly to this Army for refuge; that they might endeavour to ſecure them to ſit as a free and legal Parliament, and your Excellency with this Army have engaged themſelves to improve the utmoſt of your poſsibilities to that intent; and ſeeing thoſe worthy Mem<g ref="char:EOLhyphen"/>bers are now again diſ-inabled for diſcharging their Truſt, through the UNEXPECTED
+<pb n="5" facs="tcp:160438:2"/>
+               <!-- PDF PAGE 6 -->INTRUSION OF THOSE USURPERS, and their aſſuming to themſelves a Power of voting amongſt them, whereby thoſe deſperate enemies to the Kingdoms peace and welfare, do again obſcure and pervert the true Parlia<g ref="char:EOLhyphen"/>mentary power, and imprint the Image of that higheſt Authority upon their own deſignes, protecting themſelves and their Accomplices from juſtice.</p>
+            <p>We cannot but humbly and earneſty implore your Excellency, That thoſe Vſurpers of that ſu<g ref="char:EOLhyphen"/>pream Authority might not be permitted (even contrary to the Law of nature) to ſit judges of their own prodigious Treacheries. But that all and every perſon, that have ſate in that pre<g ref="char:EOLhyphen"/>tended Parliament, or adhered to them or their Votes, when the free legal Parliament was by violence ſuſpended, might immediatly be declared againſt, as perſons uncapable of ſitting or voting in this Parliament; That ſo according to our laſt Declaration, and our for<g ref="char:EOLhyphen"/>mer Propoſals tendred to your Excellency for that end, we might ſecure that free and legal Parliament, til the differences of the Kingdom be compoſed, and the Peace and Liberties of the people firmly eſtabliſhed.</p>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:160438:3"/>
+            <!-- PDF PAGE 7 -->
+            <head>THE PROPOSALS of the AGITATORS To His Excellency at <hi>Hammerſmith,</hi> the 5. of AUGUST, 1647.</head>
+            <head type="sub">Before the free Parliaments return to WESTMINSTER.</head>
+            <p>FOraſmuch, as your Excellency with the Councel of War, by their Repreſentations and Declara<g ref="char:EOLhyphen"/>tions have referred the Compoſure of differen<g ref="char:EOLhyphen"/>ces; And the Eſtabliſhment of the Peace and hap<g ref="char:EOLhyphen"/>pines of the whole nation <hi>to a free Parliament.</hi> We being very ſenſible, that the ends of all our labours, and manifold hazards of our lives are now depending there<g ref="char:EOLhyphen"/>upon; And of how dangerous a Concernment it may prove, if perſons diſ-affected to the peace and welfare of the Kingdom, ſhould retain places therein; do hum<g ref="char:EOLhyphen"/>bly offer to your Excellencies Conſideration, To be by
+<pb n="7" facs="tcp:160438:3"/>
+               <!-- PDF PAGE 7 -->you preſented to the Members of Parliament, now Reſi<g ref="char:EOLhyphen"/>dent in the Army.</p>
+            <p>FIrſt, That all thoſe who have ſate at Weſtminſter uſurping a Parliamentary Authority, ſince the Tumultuous and forcible ex<g ref="char:EOLhyphen"/>pulſion of the Parliament of Eng<g ref="char:EOLhyphen"/>land, and choice of new pretended Speakers (thereby giving encou<g ref="char:EOLhyphen"/>ragement and aſsiſtance to the City of London to raiſe a new War in this Kingdom) may immediatly be excluded the Houſes.</p>
+            <p>Secondly, that all which for<g ref="char:EOLhyphen"/>merly have been Members of Par<g ref="char:EOLhyphen"/>liament, and have adhered to the pretended Parliament, may be al<g ref="char:EOLhyphen"/>ſo Excluded the Houſes; And a Penalty agreed upon, to be impo<g ref="char:EOLhyphen"/>ſed upon ſuch perſon, or perſons, appearing guilty, that ſhal preſume
+<pb n="8" facs="tcp:160438:4"/>
+               <!-- PDF PAGE 8 -->to fit after the ſaid Excluſion.</p>
+            <p>Laſtly, that all former Votes a<g ref="char:EOLhyphen"/>gainſt Members diſ-affected may be duly Executed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Daniel Hincksman.</hi>
+                     </item>
+                     <item>
+                        <hi>John Blackmore.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Tracey.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Younge.</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Thornberry.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Hall.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>John Wells.</hi>
+                     </item>
+                     <item>
+                        <hi>John Wilſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Radman.</hi>
+                     </item>
+                     <item>
+                        <hi>Nich. Lockier.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Stevenſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Whitmore.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Clerk.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Gurne.</hi>
+                     </item>
+                     <item>
+                        <hi>Conſolation Fox.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Butterroy.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Willoughby.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Twigge.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Pryor.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Reynolts.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Wallington.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Cannon.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Hodden.</hi>
+                     </item>
+                     <item>
+                        <hi>John Perke.</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Robinſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Clerk.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Iohnſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Ioyce.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Sexby.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Iohnſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioſeph Adams.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Flower.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Chillington.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Colbrand.</hi>
+                     </item>
+                     <item>
+                        <hi>Tim<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Whiting.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Butler.</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen Shipden.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Knolles.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Wilkinſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Tomlint.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Salter.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Stedman.</hi>
+                     </item>
+                     <item>
+                        <hi>Harbert Field.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Baldwin.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho Ellis.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Felpes.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Symond.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Wood.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sheppard.</hi>
+                     </item>
+                     <item>
+                        <hi>Tobias Box.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
